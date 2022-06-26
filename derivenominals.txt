@@ -1,0 +1,103 @@
+Nominal Derivation in Afaan Oromoo 
+Derived Nominals from Derived Verbal Bases
+
+1. Nominals Derived from Derived Casusative Bases
+a. The Causative – S -
+eg. 
+cab-s-aa
+baq-s-aa
+mar-s-aa
+b. The Causative – is -:
+gudd-is-aa
+mul-is-aa
+bal’-is-aa
+c. The Causative – sis/siis -:
+bar-siis-aa
+fiig-sis-aa
+d. The Causative – ess/eess-:
+diim-ess-aa
+glam-eess-aa
+bar-eess-aa
+boor-ess-aa
+soor-ess-aa
+qalb-eess-aa
+dam-eess-aa
+fakk-eess-aa
+xur-eess-aa
+jab-eess-aa
+dheer-eess-aa
+ball-eess-aa
+lam-eess-aa
+wayy-eess-aa
+2. Nominals Derived from Derived Middle Bases
+a. The Middle -at/aat -:
+gudd-at-aa
+mul-at-aa
+bar-at-aa
+mar’-at-aa
+birm-at-aa
+gub-at-aa
+bal’-at-aa
+diim-at-aa
+arg-at-aa
+darb-at-aa
+gab-at-aa
+huq-at-aa
+furd-at-aa
+fil-at-aa ???
+sim-at-aa
+dirm-at-aa, etc,
+holl-at-aa
+sod-aat-aa
+hub-at-aa
+qab-at-aa
+barf-at-aa
+ganamf-at-aa
+fag-aat-aa
+dhiy-aat-aa
+
+b. The Middle – om/oom -:
+gaar-om-aa
+fir-oom-aa/fir-oom-ee
+abb-oom-aa
+c. The Middle -ah/aah -:
+urg-aah-aa
+aj-aah-aa
+
+3. Nominals Derived from the Passive -am ?
+bit-am-aa
+arg-am-aa
+nyaat-am-aa
+
+4. Nominals Derived from Complex Derived Verbal Stems
+a. Nominals derived from Middle + Causative
+fir-oom-s-aa
+abb-oom-s-aa
+gabr-oom-s-aa
+gamn-oom-s-aa
+amm-at-iis-aa/amm-ach-iis-aa
+b. Nominals derived from Middle + Causative + Middle
+gabr-oom-s-at-aa /gabr-oom-f-at-aa
+fir-oom-s/f-at-aa
+abb-oom-s/f-at-aa
+sod-aac-is-at-aa
+gudd-at-is-aa
+*Nominals Derived from Middle + Causative + Middle + Causative
+*fir-oom-s-at-iis-aa
+c. Nominals Derived from Causative + Middle
+gudd-is/f-at-aa
+cab-s-at-aa
+baq-s/f-at-aa
+hamm-eess/f-at-aa
+dheer-ess/f-at-aa
+jab-eess/f-at-aa
+bob-eess/f-at-aa
+liq-eess/f-at-aa
+d. Causative + Middle + Causative
+leq-eess/f-at-iis-aa/liqeeffachiisaa
+jilb-eess/f-at-iisaa/jilbeeffachiisaa
+e. Causative + Middle + Causative + Middle 
+liq-eess-at-iis-at-aa
+*liq-eess-at-iis-at-iis-aa
+f. Nominals Derived from the Passive + Causative
+dhab-am-siis-aa
