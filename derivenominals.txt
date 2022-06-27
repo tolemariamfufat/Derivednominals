@@ -3,6 +3,8 @@ Derived Nominals from Derived Verbal Bases
 
 1. Nominals Derived from Derived Casusative Bases
 a. The Causative – S -
+Many researchers haven't discussed that nominals are derived from derived causative stems. For example,
+Temsgen (1993:11) result nominals such as ?abaar-sa 'cursing' and dallan-suu 'sadness' are derived from by the suffixation of -sa and -suu to the verbal roots of ?abaar-'to curse' and dallan-'to be sad' respectively.
 eg. 
 cab-s-aa
 baq-s-aa
@@ -31,6 +33,7 @@ lam-eess-aa
 wayy-eess-aa
 2. Nominals Derived from Derived Middle Bases
 a. The Middle -at/aat -:
+Nominals derived from middle bases are often underdescribed by researchers. For example, Temesgan (1993:13) says, in Afaan Oromoo, instrumental nominals such as har-ataa 'broom' and hidh-ata 'armament' are derived verbal roots har- 'to sweep' and hidh- 'tie'. The truth is that nominals har-at-aa 'broom' and hidh-at-a 'armament' are derived from middle bases har-at- 'to clean for one's own benefit' and hidh-at- 'to tie for one's own benefit'. 
 gudd-at-aa
 mul-at-aa
 bar-at-aa
@@ -71,6 +74,11 @@ nyaat-am-aa
 
 4. Nominals Derived from Complex Derived Verbal Stems
 a. Nominals derived from Middle + Causative
+Temesgen (1993:21) says that the middle morpheme -at- often precedes the causative morpheme -sis-. It is true that in Afaan Oromoo the causative can follow the middle in nominal and verbal derivations. Nevertheless, Temesgen is incorrect in placing the causative morpheme -sis- next to the middle morpheme because the middle morpheme -at/-aat is followed not by the causative morpheme -sis-, but by the causative morpheme -is. As we observe the phoneme /t/ in the middle -at- is changed to /ch/ because the vowel phoneme /i/ follows it. If the causative -sis- were followed the middle -at-, the phoneme /t/ wouldn't have changed to /ch/. 
+a. sodaa 'fear', b. sod-aat- 'to fear' c. sod-aat-sis-/sod-aach-sis- 'to frighten'.
+a. dubbii 'talk', b. dubb-at- 'to talk', c. dubb-at-sis/dubb-ach-siis- 'to cause to talk'
+a. gaaffii 'question', b. gaaf-at- 'to ask', c. gaaf-at-sis-/gaaf-ach-sis 'to cause to ask'
+
 fir-oom-s-aa
 abb-oom-s-aa
 gabr-oom-s-aa
