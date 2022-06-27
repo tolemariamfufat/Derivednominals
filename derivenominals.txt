@@ -109,5 +109,9 @@ liq-eess-at-iis-at-aa
 *liq-eess-at-iis-at-iis-aa
 f. Nominals Derived from the Passive + Causative
 dhab-am-siis-aa
+
+4. Nominals derived from derived passive bases
+fayyad-am-a 'usage'
+
 Negassa, T. (1995). Word formation in Oromo. Ethiopian Journal of Languages and Literature, 5, 1-56.
 Gerba, T. G. (2015). Typology of Oromo Personal Names. International Journal of Sciences: Basic and Applied Research (IJSBAR), 19(2), 17-34.
