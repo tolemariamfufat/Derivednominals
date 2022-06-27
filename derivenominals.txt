@@ -108,7 +108,12 @@ e. Causative + Middle + Causative + Middle
 liq-eess-at-iis-at-aa
 *liq-eess-at-iis-at-iis-aa
 f. Nominals Derived from the Passive + Causative
-dhab-am-siis-aa
+dhab-am-siis-aa- dhab-am-toota '
+barr-eess-am-a/barreeffama 'text/script' - barreeffam-oota
+qaacc-eess-am-a/qaacceeffama 'analysis' -
+asoos-am-a /asoos-am-oota 'fictions'
+jech-am-a/jech-am-oota 'ideoms'
+
 
 4. Nominals derived from derived passive bases
 fayyad-am-a 'usage'
