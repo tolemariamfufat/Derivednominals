@@ -117,6 +117,17 @@ jech-am-a/jech-am-oota 'ideoms'
 
 4. Nominals derived from derived passive bases
 fayyad-am-a 'usage'
+qab-at-am-a 'concrete'
+him-at-am-aa ''
+abaar-am-aa 'cursed'
+qoodd-at-am-aa 'included'
+jijjiir-am-a 'change'
+bar-am-a 'experienced' (File Jaleta, Barumtaa)
+madaq-f-am-a 'adopted'
+qajeelf-am-a 'directive'
+barr-eeff-am-a 'text'
+caas-ess-am-a 'structure'
+
 
 Negassa, T. (1995). Word formation in Oromo. Ethiopian Journal of Languages and Literature, 5, 1-56.
 Gerba, T. G. (2015). Typology of Oromo Personal Names. International Journal of Sciences: Basic and Applied Research (IJSBAR), 19(2), 17-34.
