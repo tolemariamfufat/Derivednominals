@@ -1,4 +1,23 @@
-Nominal Derivation in Afaan Oromoo 
+Nominal  Derivation in Afaan Oromoo
+
+A Paper prepared for 21st Conference fo IES, Addis Ababa
+
+by:
+
+Tolemariam Fufa (PhD), Associate Professor of Linguistics
+Department of Oromoo Language, Literature and Folklore
+College of Humanities, Language Studies Journalism and Communication
+
+
+
+Abstract
+
+Afaan Oromoo Nominal derivation is not thoroughly treated in the literature. In fact, Negasa (1995) mentioned some nominal derivations such as result nominal nominals. Yet, he doesn’t determine range of variations of nominal derivations in terms of type, form and meaning. This paper is aimed to fill such research gap. The paper is divided into three parts. The first part is dedicated to identify agentive, event, result, patient, instrument, achievement and state nominal derivations in Afaan Oromoo. The second part discusses roots and stems form which such nominals are derived. Some agent nominals such as barsiisaa ‘teacher’ are derived from causative because the root word is bar- ‘to know’  to which the causative suffix -siis- is attached, finally the nominal morpheme -aa is attached to the causative base to derived agentive derived nominal. Others such as barataa ‘student’ are derived from middle base; the root word is bar – ‘to know’ to which the middle morpheme – at – is attached; the nominalizing suffix -aa is attached to the middle base. Some other derivations are complex. They involve middle, causative and nominalization operations.  For example, agent nominal guddifačaa one such case. The root word is an adjective gudd – ‘big’ to which the causative -is – (in this case the -is – becomes -if – due to morphophonological process)  is attached. The middle marking -at – (in this case -at -becomes -ač – due to morphophonological process) is attached to. Finally the nominalizing morpheme -aa – is attached to the middle base. The third part of the paper discusses form and meaning of nominal derivations. For example, result nominals are referential while event nominal are linked to thematic relations (Melloni, 2012).
+
+Key words: nominal, derivation, result, event, agent, root, base
+.
+
+
 Derived Nominals from Derived Verbal Bases
 
 1. Nominals Derived from Derived Casusative Bases
